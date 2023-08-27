@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Rudko and Alex want cat, wants a rabbit
+=======
+Rudko and Alex want cat. They have got a dog.
+>>>>>>> 15017574d1d273c90aaa9ce9d40ca2b6c5ff03c7
